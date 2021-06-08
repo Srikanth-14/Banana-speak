@@ -1,2 +1,5 @@
 var username = prompt("give me Username")
-alert("this script works! " + username);
+
+var welcomeMessage = "this script works!" + username;
+
+alert(welcomeMessage);
