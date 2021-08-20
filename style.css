@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+
+:root{
+    --primary-colour: #eeeb25;
+
+}
+
+.header {
+    text-align: center;
+    height: 20vh;
+    display: block;
+    background-color: var(--primary-colour);
+}
+
+
+.hero-heading {
+
+    text-align: center;
+    padding: 1rem;
+}
+
+.textarea {
+    border: solid black 1px;
+    display: block;
+    height: 15vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 500px;
+
+}
+
+
+.button {
+    background-color: var(--primary-colour);
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    width: 8rem;
+}
+
+
+
+.footer {
+    background-color: var(--primary-colour);
+    text-align: center;
+    height: 20vh;
+
+}
+
+
+
+.container-center {
+    text-align: center;
+}
